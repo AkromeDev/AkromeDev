@@ -54,18 +54,18 @@ The Tools I love:
 ## GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=apprentice" >
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AkromeDev&theme=monokai&date_format=j%20M%5B%20Y%5D" width="700">
 </p>
 
 ##
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=default" alt="AkromeDev" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AkromeDev&show_icons=true&theme=monokai&locale=en&layout=default" alt="AkromeDev" width="700"/>
 </p>
 
 ## 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=default" alt="AkromeDev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=monokai&locale=en&layout=default" alt="AkromeDev" width="700"/>
 </p>
 
 ##
