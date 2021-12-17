@@ -51,7 +51,9 @@ The Tools I love:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&locale=en&layout=compact" alt="AkromeDev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
 </p>
 
 <p align="center">
