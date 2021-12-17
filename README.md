@@ -1,7 +1,8 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
 French developer working full-time in Germany. I enjoy to work in various projects, big or small and love to learn new technologies.
 
+## What I use
 Languages I am proficient with:
 
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
@@ -20,7 +21,7 @@ My favorite frameworks:
 
 The Tools I love:
 
-<p align="space-around" styles="display: flex; justify-content:  space-between;">
+<p align="space-around">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
@@ -50,21 +51,39 @@ The Tools I love:
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /> </a>
 </p>
 
-<p align="center" display="flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
-</p>
+## GitHub Stats
 
 <p align="center">
-	<a href="https://github.com/AkromeDev/github-profile-trophy">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=apprentice" width="800">
+</p>
+
+##
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=default" alt="AkromeDev" width="800"/>
+</p>
+
+## 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=default" alt="AkromeDev" width="800"/>
+</p>
+
+##
+
+<p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=AkromeDev&theme=matrix&row=2&column=4&margin-w=15&margin-h=15" alt="AkromeDev" />
-    </a>
 </p>
 
 
 
 
 <!--
+
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AkromeDev&show_icons=true&theme=apprentice&locale=en&layout=compact" alt="AkromeDev" />
+</p>
 
 ![github-contribution-grid-snake](https://cdn.jsdelivr.net/gh/AkromeDev/AkromeDev@github-contribution-grid-snake/github-contribution-grid-snake.svg)
 
