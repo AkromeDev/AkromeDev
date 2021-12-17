@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+French developer working full-time in Germany. I enjoy to work in various projects, big or small and love to learn new technologies.
+
+Languages I am proficient with:
+java css3 html5 typescript javascript
+
+arduino aws azure bash c circleci csharp css3 docker dotnet express figma firebase flutter gcp git grafana graphql heroku html5 ifttt javascript jekyll kubernetes linux mocha mongodb mysql nextjs nginx nodejs nuxtjs php postman puppeteer python react redis ruby selenium sqlite tailwind typescript unity unreal vuejs xd zapier blender
+
 <!--
 **AkromeDev/AkromeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
