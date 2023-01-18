@@ -50,18 +50,6 @@ The Tools I love:
 ##
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkromeDev&show_icons=true&theme=tokyonight&locale=en&layout=default" alt="AkromeDev" width="600"/>
-</p>
-
-## 
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="AkromeDev" width="600"/>
-</p>
-
-##
-
-<p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=AkromeDev&theme=matrix&row=2&column=4&margin-w=15&margin-h=15" alt="AkromeDev" />
 </p>
 
