@@ -1,6 +1,7 @@
 ### Welcome to my GitHub 👋
 
 French developer working full-time in Germany. I enjoy to work in various projects, big or small and love to learn new technologies.
+The only thing I have? My learning skills. The only thing I know? Progressing is about consistancy.
 
 ## What I use
 Languages I am proficient with:
@@ -45,18 +46,6 @@ The Tools I love:
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AkromeDev&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="600">
-</p>
-
-##
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkromeDev&show_icons=true&theme=tokyonight&locale=en&layout=default" alt="AkromeDev" width="600"/>
-</p>
-
-## 
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkromeDev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="AkromeDev" width="600"/>
 </p>
 
 ##
