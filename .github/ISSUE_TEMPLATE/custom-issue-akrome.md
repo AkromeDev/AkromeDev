@@ -13,11 +13,6 @@ assignees: AkromeDev
 
 ## 🎯 To dos
 
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-
+- [ ] 
 
 ## 🔗 Further & Ressources
