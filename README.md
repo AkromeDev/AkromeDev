@@ -36,10 +36,9 @@ The Tools I love:
                 
  <a target="_blank" href="https://tailwindcss.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
      <a target="_blank" href="https://www.figma.com/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-     <a target="_blank" href="https://www.adobe.com/products/xd.html" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-     <a target="_blank" href="https://www.adobe.com/products/photoshop.html" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="photoshop" width="40" height="40" /> </a>
-     <a target="_blank" href="https://www.adobe.com/products/illustrator.html" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="illustrator" width="40" height="40" /> </a>
-     <a target="_blank" href="https://www.adobe.com/products/premiere.html" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-premiere-cc-logo-2B72AFF7E6-seeklogo.com.png" alt="premiere" width="40" height="40" /> </a>
+     <a target="_blank" href="https://www.adobe.com/products/xd.html" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40" /> </a>
+     <a target="_blank" href="https://www.adobe.com/products/photoshop.html" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" /> </a>
+     <a target="_blank" href="https://www.adobe.com/products/illustrator.html" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40" /> </a>
      <a target="_blank" href="https://www.blender.org/" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /> </a>
 
 ## GitHub Stats
