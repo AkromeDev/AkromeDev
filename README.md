@@ -44,6 +44,5 @@ The Tools I love:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkromeDev/AkromeDev/output/github-contribution-grid-snake.svg" alt="snake animation" />
+        <img src="https://github-profile-trophy.vercel.app/?username=AkromeDev&theme=matrix&row=2&column=4&margin-w=15&margin-h=15" alt="AkromeDev" />
 </p>
-
